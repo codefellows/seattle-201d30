@@ -1,9 +1,42 @@
-# Class 7: Object-Oriented Programming with Constructor Functions; HTML Tables
+<a id="top"></a>
+# Today's Plan: Week 2, Tuesday Lecture
 
-**Learning Objectives**
+- Announcements
+- [Code Review](#codereview) *[45 minutes]*
+- Break *[10 minutes]*
+- [Constructor functions](#constructor) *[60 minutes]*
+- Break *[10 minutes]*
+- [Tables](#code) *[40 minutes]*
+- Review today's assignments *[15 minutes]*
 
-As a result of completing Day 7 of Code 201, students will:
+# Readings
 
-- Be able to translate an object literal into a constructor function, as measured by successful completion of the daily code assignment
-- Be able to use the ‘prototype’ property to extend the inheritable properties and methods of a constructor function, as measured by successful completion of the daily code assignment
-- Be able to dynamically build an HTML table with JavaScript and render it to the DOM, as measured by successful completion of the daily code assignment
+- HTML Chapter 6: "Tables"
+
+---
+
+<a id="codereview"></a>
+### Code Review
+
+We'll do code reviews to begin class most days
+
+[-top-](#top)
+
+---
+
+<a id="constructor"></a>
+### Constructor Functions
+Classes, instances, and prototypes...oh, my!
+
+---
+
+<a id="code"></a>
+### Tables
+
+**HTML Chapter 6: "Tables"**
+
+- p.131: Basic table structure
+- p.132: Table headings
+- p.133: Spanning columns & rows
+
+[-top-](#top)
