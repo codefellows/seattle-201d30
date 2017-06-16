@@ -2,7 +2,7 @@
 
 - [Code Review](#codereview) *[45 minutes]*
 - Break - 10 min
-- [Debugging, scope, and hoisting](#readings) *[65 minutes]*
+- [Debugging, scope, and hoisting](#readings) *[6 pu5 minutes]*
 - Break - 10 min
 - Time with Fuzz *[30 minutes]*
 
