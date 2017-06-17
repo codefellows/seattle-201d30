@@ -1,4 +1,12 @@
-# Class 11: A/V, Practical Info, and Getting the Vote Tracker Project Started
+# Class 11: Getting the BusMall Project Started
+
+
+- [Code Review](#codereview) *[45 minutes]*
+- Problem domain, user scenarios, technical requirements, and a checklist *[30 minutes]*
+- Break *[15 minutes]*
+- Showing images, click events, removing elements from the DOM *[75 minutes]*
+- Lab preview *[15 minutes]*
+
 
 **Learning Objectives**
 
