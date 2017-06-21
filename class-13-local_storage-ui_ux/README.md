@@ -1,8 +1,23 @@
-# Class 13: Add Local Storage to Your Vote Tracker; UI/UX Concepts
+<a id="top"></a>
+# Today's Plan: Week 3, Wednesday Lecture
 
-**Learning Objectives**
+- Announcements
+  - Thursday: Initial look at project pitches
+  - Friday: Set project teams, select topics, start planning
+- [Code Review](#codereview) *[45 minutes]*
+- Break - *[10 minutes]*
+- [Persistence and local storage](#readings) *[60 minutes]*
+- Break - *[10 minutes]*
+- [Persistence and local storage, part 2](#readings) *[50 minutes]*
 
-As a result of completing Day 13 of Code 201, students will:
+---
 
-- Be able to understand concepts in persistence and the JavaScript commands needed to read/write to/from local storage, as measured by successful completion of the daily code assignment and also by a quiz administered in Canvas.
-- Demonstrate knowledge and command of JSON syntax and structure, as measured by successful completion of the daily code assignment and also by a quiz administered in Canvas.
+<a id="readings"></a>
+### Go over the assigned readings
+
+**Read this article on local storage**
+
+- [Read this article on local storage](http://diveintohtml5.info/storage.html)
+- Local storage is the gateway to understanding basic concepts of persistence
+
+[-top-](#top)
