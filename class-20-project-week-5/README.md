@@ -1,7 +1,6 @@
 # Class 20 -  Project Week: Milestone 5
 ## Presentation Day
 
-* Remember that you are required to attend the 301 presentations starting at 10:30a
 
 * Your presentations should take approximately **20 minutes**. 
 
