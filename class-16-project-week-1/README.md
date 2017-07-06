@@ -47,7 +47,7 @@ In your repo, create a project. Give it three columns: `To Do`, `In Progress`, a
 
 Now, look at your technical requirements. For each one, determine what, exactly, needs to be done in code. Then, break this work down into 30 minute to 2-hour chunks. Each one of these "chunks" will be a task - a.k.a. an "issue" on GitHub.
 
-For each task, create a card in the GitHub project. Turn each one into a GitHub issue. In the issue, give a brief explanation of what needs to be done; reference wireframes/data models/etc. if need be.
+For each task, create a card in the GitHub project. Turn each one into a GitHub issue. In the issue, give a brief explanation of what needs to be done; reference wireframes/data models/etc. if need be. Assign the issue to each person who works on the issue. 
 
 Finally, arrange the To Dos in order of what needs to be completed first. As you arrange, give some thought as to what issues "block" other ones. Also, remember: NO CSS IS TO BE WRITTEN UNTIL YOUR HTML AND JS IS AT MVP. Functionally, this means you probably won't be writing CSS until Wednesday afternoon. Get the functionality done first, before you succumb to the lure of CSS.
 
